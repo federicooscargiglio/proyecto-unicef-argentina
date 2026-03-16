@@ -76,7 +76,7 @@ PROYECTO UNICEF/
 
 **Federico Oscar Giglio**
 Diplomado en Ciencias de Datos — UTN
-[LinkedIn](https://www.linkedin.com/in/federico-giglio) · [GitHub](https://github.com/federicooscargiglio)
+[LinkedIn](https://www.linkedin.com/in/federico-claudio-sait-oscar-giglio/) · [GitHub](https://github.com/federicooscargiglio)
 
 ---
 
