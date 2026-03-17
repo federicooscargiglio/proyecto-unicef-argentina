@@ -81,3 +81,21 @@
 - Crear decisions_log.md documentando las decisiones de limpieza
 - Convertir columnas de abandono de object a numérico
 - Detectar y documentar valores nulos
+
+## 17/03/2026 — Semana 2, Día 2
+
+**Qué hicimos:**
+- Movimos la bitácora PDF a la carpeta docs/ en GitHub y eliminamos la versión suelta de la raíz
+- Conversión de columnas de abandono_reciente y abandono_historico de object a float64 con pd.to_numeric(errors='coerce')
+- Detección de nulos en los 8 datasets: matrícula sin nulos, abandono_reciente con 204 nulos
+- Inspección de nulos en abandono_reciente: identificados 3 tipos (estructurales esperados, fila sin estructura, filas basura)
+- Eliminación de filas basura del pie de página del Excel con dropna(how='all') sobre columnas numéricas — shape final (27, 17)
+- Mejora de todos los markdowns del notebook a nivel profesional con descripción de qué se hace y por qué
+
+**Problemas / decisiones:**
+- Primer intento de eliminar filas basura con division.notna() no funcionó — las filas tenían texto en division pero NaN en todas las columnas numéricas; solución: dropna sobre columnas numéricas con how='all'
+- NaN en prim_7 y sec_7 son estructurales y no se tocan — corresponden a diferencias en la estructura del sistema educativo por provincia (6-6 vs 7-5)
+
+**Próxima sesión:**
+- Revisar nulos de abandono_historico
+- Crear decisions_log.md con todas las decisiones de limpieza documentadas
