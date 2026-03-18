@@ -18,7 +18,8 @@ CONTEXTO DEL PROYECTO — LEER ANTES DE RESPONDER
 === DÓNDE ESTAMOS ===
 - Semana: 2 de 8
 - Fase: Limpieza y auditoría de datos
-- Último hito completado: Conversión a numérico + detección de nulos + limpieza filas basura en abandono_reciente + markdowns profesionales en 02_limpieza_datos.ipynb
+- Último hito completado: Conversión a numérico + detección de nulos + limpieza filas basura
+  en abandono_reciente + markdowns profesionales en 02_limpieza_datos.ipynb (18 celdas, Run All sin errores)
 - Estado del entorno: Funcionando
 
 === ARCHIVOS ACTUALES ===
@@ -26,7 +27,7 @@ CONTEXTO DEL PROYECTO — LEER ANTES DE RESPONDER
   - df_mat_2022, df_mat_2023, df_mat_2024 — matrícula total por departamento
   - df_edad_2022, df_edad_2023, df_edad_2024 — matrícula por edad
   - abandono_reciente — tasas 2012-2024 (27 filas, 17 columnas — filas basura eliminadas)
-  - abandono_historico — tasas 2003-2016 (34 filas, 17 columnas — 2 filas de sub-encabezado eliminadas)
+  - abandono_historico — tasas 2003-2016 (34 filas, 17 columnas — 2 filas sub-encabezado eliminadas)
 - Notebooks existentes:
   - 00_test_entorno.ipynb — entorno verificado, OK
   - 01_carga_datos.ipynb — limpio, 9 celdas, Run All sin errores
@@ -44,6 +45,21 @@ CONTEXTO DEL PROYECTO — LEER ANTES DE RESPONDER
 8. Detección de nulos — auditoría de los 8 datasets (markdown + código)
 9. Inspección de nulos — abandono_reciente: identificación de nulos estructurales y filas basura (markdown + código)
 10. Eliminación de filas basura — abandono_reciente: shape final (27, 17) (markdown + código)
+
+=== SECCIÓN DE ESTUDIO ===
+Plan de 5 bloques temáticos — en paralelo al proyecto técnico.
+- Bloque 1: Bullying escolar — DISPONIBLE (PDF generado, listo para leer e imprimir)
+- Bloque 2: Apuestas online en adolescentes — Pendiente (Semana 2)
+- Bloque 3: Cómo trabaja UNICEF — Pendiente (Semana 3)
+- Bloque 4: Políticas públicas en Argentina — Pendiente (Semana 4)
+- Bloque 5: Tu proyecto — cómo funciona el análisis y cómo explicarlo — Pendiente (Semana 5)
+Dinámica: Fede lee el bloque en papel → responde preguntas de repaso con sus propias palabras
+→ discute con Claude en la siguiente sesión.
+
+=== ESTRATEGIA DE CONTACTO A UNICEF ===
+- Semanas 3: presencia digital (seguir, comentar en LinkedIn con criterio)
+- Semana 6: primer contacto directo (email/LinkedIn a Sergio Waisgrais — área de Monitoreo)
+- Semana 8: contacto formal completo con dashboard, informe y GitHub listos
 
 === CIERRE DE SESIÓN — HACER SIEMPRE ===
 Al final de cada sesión de trabajo, antes de cerrar VS Code:

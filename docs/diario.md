@@ -99,3 +99,26 @@
 **Próxima sesión:**
 - Revisar nulos de abandono_historico
 - Crear decisions_log.md con todas las decisiones de limpieza documentadas
+
+18/03/2026 — Semana 2, Día 3
+Qué hicimos:
+
+Diseñamos la sección de estudio del proyecto: 5 bloques temáticos en paralelo al trabajo técnico
+Definimos la dinámica de estudio: leer el PDF en papel → responder preguntas de repaso
+con palabras propias → discutir con Claude en la siguiente sesión
+Generamos el PDF del Bloque 1 (Bullying Escolar): 10 secciones, 5 partes, preguntas de repaso
+incluidas — listo para imprimir
+Actualizamos la Bitácora PDF con la sección de estudio completa (plan de 5 bloques + ficha
+de seguimiento por bloque)
+Revisamos y confirmamos la estrategia de contacto a UNICEF:
+Semana 3 presencia digital → Semana 6 primer contacto directo → Semana 8 contacto formal completo
+
+Problemas / decisiones:
+
+Ninguno técnico en esta sesión — sesión de planificación y documentación
+
+Próxima sesión:
+
+Revisar nulos de abandono_historico (pendiente del día anterior)
+Crear decisions_log.md con todas las decisiones de limpieza documentadas
+Cuando esté listo: discutir Bloque 1 de estudio (leer primero en papel)
