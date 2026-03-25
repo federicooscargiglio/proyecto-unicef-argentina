@@ -87,9 +87,23 @@ Cada entrada documenta qué se encontró, qué se decidió y el criterio utiliza
   Provincias con estructura 6-6 no tienen 7° de primaria; provincias con estructura
   7-5 no tienen 7° de secundaria. El NaN es el dato correcto.
 
+
+---
+
+
   ## Comparacion entre periodos
   
 **DEC-011: Visualización III — comparación entre períodos superpuestos.
 Se eligió comparar promedios de ambos datasets sabiendo que 2012–2016
 aparece en los dos. La nota metodológica en el markdown del notebook
 documenta esta limitación explícitamente.
+
+---
+
+
+## Cambios en ranking provincial entre períodos
+
+**DEC-012 — Visualización IV — ranking provincial período histórico (2003–2016)**
+- Decisión: replicar la estructura visual de Visualización II para permitir comparación directa entre períodos.
+- Criterio: misma paleta, misma lógica de colores por promedio nacional, mismo tipo de gráfico.
+- Hallazgo: San Juan (1°) y Formosa (2°) lideraban en 2003–2016. Chaco escala del puesto 9 al 1 en 2012–2024. San Juan cae del puesto 1 al 12. La Rioja es consistentemente la provincia con menor abandono en ambos períodos.
