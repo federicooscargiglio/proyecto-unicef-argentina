@@ -86,3 +86,10 @@ Cada entrada documenta qué se encontró, qué se decidió y el criterio utiliza
 - Criterio: corresponden a diferencias estructurales del sistema educativo argentino.
   Provincias con estructura 6-6 no tienen 7° de primaria; provincias con estructura
   7-5 no tienen 7° de secundaria. El NaN es el dato correcto.
+
+  ## Comparacion entre periodos
+  
+**DEC-011: Visualización III — comparación entre períodos superpuestos.
+Se eligió comparar promedios de ambos datasets sabiendo que 2012–2016
+aparece en los dos. La nota metodológica en el markdown del notebook
+documenta esta limitación explícitamente.
